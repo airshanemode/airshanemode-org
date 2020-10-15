@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "deploy": "npx @cloudflare/wrangler publish",
+    "build":  "markdown posts/nypost-censorship.md --stylesheet ../styles/post.css --title 'How to Kill a Story in the USA' > public/posts/how-to-kill-a-story.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "airshanemode",

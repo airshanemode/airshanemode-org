@@ -1,0 +1,28 @@
+body {
+  color: #333;
+  font-family: "Open Sans", sans-serif;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #a00;
+}
+
+h1 {
+  color: #a00;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+h4 {
+}
+
+p {
+  text-align: justify;
+}
