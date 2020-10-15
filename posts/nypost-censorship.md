@@ -12,12 +12,16 @@ The goal of this document is **not** to litigate the truthfulness of the NY Post
 
 This document is open source. It is provided under the [MIT open source license](https://mit-license.org/). It is written in [markdown](https://en.wikipedia.org/wiki/Markdown) and is currently maintained by [@airshanemode2](https://twitter.com/airshanemode2). It uses publically available information only, and takes care to avoid including information that individuals could reasonably expect to be private.
 
+You can view the history of any changes to this document [here](https://github.com/airshanemode/airshanemode-org/commits/master/posts/nypost-censorship.md).
+
 ## Contribute to this document
 
 Contributions to this document are welcomed. You can send any suggestions to the current maintainer via:
 
 * Email - airshanemode@protonmail.com
 * Twitter - [@airshanemode2](https://twitter.com/airshanemode2)
+
+If you're familiar with the [git](https://en.wikipedia.org/wiki/Git) version control tool you can fork this site's [repository](https://github.com/airshanemode/airshanemode-org) on github and make a pull request with your changes.
 
 If you'd like, you can be cited however you like for any contributions you provide, though you need to agree to release them under the MIT open source license so that they can be included in this document.
 
@@ -114,7 +118,7 @@ National security reporter at the Daily Beast.
 
 ### 3:52pm EST
 
-The Daily Beast files a deceptive [story](https://www.thedailybeast.com/man-who-reportedly-gave-hunters-laptop-to-rudy-speaks-out-in-bizarre-interview) about their [interview](https://soundcloud.com/rptrbnd/mac-shop-10-14-cm). The story misrepresents the interview and only focuses on a few statements which it takes out of context, apparently in an effort to discredit Isaac and the the story.
+The Daily Beast files a deceptive [story](https://www.thedailybeast.com/man-who-reportedly-gave-hunters-laptop-to-rudy-speaks-out-in-bizarre-interview) about their [interview](https://soundcloud.com/rptrbnd/mac-shop-10-14-cm). The story misrepresents the interview and only focuses on a few statements which it takes out of context, possibly in an effort to discredit Isaac and the the story.
 
 According to a [tweet](https://twitter.com/JordanmHowell/status/1316470065320144896) by Howell, he was contacted by a couple of staffers at the Daily Beast to coordinate the story:
 
@@ -123,13 +127,15 @@ According to a [tweet](https://twitter.com/JordanmHowell/status/1316470065320144
 
 The byline of story names Jordan Howell and Erin Banco as the authors.
 
-#### Examples of deceptive claims in the story
+#### Examples of misleading statements and falsehoods in the story
 
-
+* The title of the story calls the interview "bizarre", when it is anything but. Isaac repeatedly explains himself, and while he chooses not to answer some questions, as he repeats dozens of times, he's scared for his life. He may also be worried about legal liability.
+* The story very strongly implies that Isaac doesn't have a legitimate reason for believing that the laptop is Hunter Biden's or that he's fabricating it, because he has a medical condition that prevented him from identifying the customer. This (almost certainly intentionally) leaves out the many additional reasons that Isaac provides for believing the laptop is Hunter Biden's, including: the customer identifying himself as Hunter Biden, the files on the laptop indicated it was Hunter Biden's, and the FBI appears to have communicated to him that they believe it to be Hunter Biden's.
+* The story suggests that the Seth Rich conspiracy theory is the reason for his "paranoia", which the authors imply is unjustified and possibly evidence that he's not trustworthy. The audio of the interview reveals this isn't the case. While Isaac does reference Seth Rich once, this is only after persistent needling by the reporters who consistently dismiss his concerns for his safety.
 
 ### 3:55pm EST
 
-Erin Banco posts a [tweet thread](https://twitter.com/ErinBanco/status/1316467766921175041) about the Daily Beast story, repeating false and deceptive statements from the storyto her 38k followers.
+Erin Banco posts a [tweet thread](https://twitter.com/ErinBanco/status/1316467766921175041) about the Daily Beast story, repeating false and deceptive statements from the story to her 38k followers.
 
 ### < 4:04pm EST
 
