@@ -2,7 +2,7 @@ name = "site"
 type = "webpack"
 account_id = "d94dc6ed4b781c87dfe3e3c2c938f527"
 workers_dev = false
-route = "airshanemode.org/*"
+route = "public.airshanemode.org/*"
 zone_id = "aaa6bafad29bf72a7e2b46eace120e95"
 
 [site]
