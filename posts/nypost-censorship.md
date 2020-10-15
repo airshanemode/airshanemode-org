@@ -159,6 +159,10 @@ The wording of the trend appears to be designed to emphasize that the NY Post ar
 
 The timing of this trend's run can be verified as it was [screenshotted](https://twitter.com/airshanemode2/status/1316530229230407680).
 
+### < 6:43pm EST
+
+US Press Secretary Kayleigh McEnany's [personal twitter account](https://twitter.com/kayleighmcenany) is [locked](https://twitter.com/TrumpWarRoom/status/1316510056591040513) for sharing the NY Post story. She later tells Hannity that Twitter support told her they wouldn't unlock her account unless she deleted the tweet, according to a [story](https://thehill.com/homenews/media/521170-kayleigh-mcenany-twitter-had-me-at-gunpoint-by-locking-account) in The Hill.
+
 ### 7:44pm EST
 
 [@TwitterSafety](https://twitter.com/TwitterSafety) releases [thread](https://twitter.com/TwitterSafety/status/1316525303930458115) on the suppression claiming that it was due to personal and hacked material in the article. This is their first public statement on the topic.
