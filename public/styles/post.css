@@ -26,3 +26,11 @@ h4 {
 p {
   text-align: justify;
 }
+
+li {
+  padding-bottom: 0.5em;
+}
+
+li:last-of-type {
+  padding-bottom: 0;
+}
