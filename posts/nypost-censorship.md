@@ -167,4 +167,4 @@ This thread provides some justification for the censorship, but makes no stateme
 
 ### 7:55pm EST
 
-[Jack Dorsey](https://twitter.com/jack), Twitter CEO, [tweets](https://twitter.com/jack/status/1316528193621327876) saying that the communication around the censorship was "not great". He makes no apology for the censorship itself, nor do he express any intent to reverse the action.
+[Jack Dorsey](https://twitter.com/jack), Twitter CEO, [tweets](https://twitter.com/jack/status/1316528193621327876) saying that the communication around the censorship was "not great". He makes no apology for the censorship itself, nor does he express any intent to reverse the action.
