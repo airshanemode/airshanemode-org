@@ -52,7 +52,7 @@ The Senate Homeland Security and Governmental Affairs committee [confirms](https
 
 #### Facebook suppression is announced on Twitter
 
-[Andy Stone](https://twitter.com/andymstone/), announces that FB will be "limiting the spread of the story" in a [tweet](https://twitter.com/andymstone/status/1316395902479872000).
+[Andy Stone](https://twitter.com/andymstone/) announces that FB will be "limiting the spread of the story" in a [tweet](https://twitter.com/andymstone/status/1316395902479872000).
 
 Stone works in communications at FB, and according to his twitter bio he previously worked for:
 
